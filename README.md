@@ -38,7 +38,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `git clone https://github.com/isolation0/virus `
 * `cd $HOME`
 * `ls`
-* `cd virus`
+* `cd virus `
 * `ls`
 * `bash virus.sh`
 ```
