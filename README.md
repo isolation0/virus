@@ -1,6 +1,6 @@
 
 
-## ABOUT TOOL :
+## virus TOOL :
 
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
@@ -64,7 +64,7 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
+<img width="50%" src="https://c.top4top.io/p_2147up92k1.jpg"/>
 <img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
 </p>
 
